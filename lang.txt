@@ -1,0 +1,7 @@
+Tamil
+English
+Telugu
+Hindi
+Malayalam
+Marathi
+Kannada
